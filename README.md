@@ -1,4 +1,5 @@
 # Machine-Learning-Notes
+Multiple algrithoms for machine learning
 
 ## Regression
 Linear Regression
